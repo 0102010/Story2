@@ -1,2 +1,1 @@
-
 This is the first file created in the (main) branch and now it's been modified inside the (second) branch.
