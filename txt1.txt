@@ -1,1 +1,1 @@
-This is the first file
+This is the first file and now it's been modified inside the (second) branch.
