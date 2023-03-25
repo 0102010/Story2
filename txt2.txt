@@ -1,5 +1,1 @@
-second
 This is the second file created inside the (main) branch and it's been modified inside the (second) branch.
-
-This is the second file created inside the (main) branch and it's been modified inside the (second) branch.
-main
